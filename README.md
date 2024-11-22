@@ -39,4 +39,4 @@ Se hai problemi o domande, sentiti libero di contattarci tramite email o aprire 
 
 ## 🤝 Contribuire
 
-Siamo aperti a contributi da parte della community! Se desideri contribuire:
+Siamo aperti a contributi da parte della community! Se desideri contribuire

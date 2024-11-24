@@ -18,13 +18,19 @@ Segui questi passaggi per avviare il progetto sul tuo computer:
     npm install
     ```
 
-3. **Avvia il server di sviluppo**: Avvia il progetto con il seguente comando:
+3. **Esegui il build del programma**: Installa il programma:
+
+    ```bash
+    npm run build
+    ```
+
+4. **Avvia il server di sviluppo**: Avvia il progetto con il seguente comando:
 
     ```bash
     npm start
     ```
 
-4. Una volta avviato il comando, puoi accedere al visualizzatore tramite il tuo browser, l'indirizzo sarà mostrato nella console.
+5. Una volta avviato il comando, puoi accedere al visualizzatore tramite il tuo browser, l'indirizzo sarà mostrato nella console.
 
 ## 🔮 Funzionalità future
 
